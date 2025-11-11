@@ -86,6 +86,6 @@ test('Validate destination europe', async ({ page }) => {
     //await expect(europeList).toHaveText(expectedEuropeDestinations.sort());
   //Sort both arrays to ensure the comparison is order-independent
 
-
+//llllllllllllllllllllllllllll
 
 });
