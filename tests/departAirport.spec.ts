@@ -14,7 +14,7 @@ test.beforeEach(async({page}) => {
 'All Scotland',
 'All North England',
 'All Ireland',
-'All Waales & South Wales',  
+'All Wales & South Wales',  
 'Belfast International',
 'Birmingham',
 'Bristol',
