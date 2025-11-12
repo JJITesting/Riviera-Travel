@@ -39,6 +39,6 @@ await page.locator ('#edit-0').click();
 for (const type of expectedRiverCruiseTypes) {
     await assertCheckboxWithLabelIsChecked(page, type);
   }
-
+ 
 })
 
